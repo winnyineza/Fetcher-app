@@ -24,7 +24,8 @@ GitHub Repositories Fetcher is a web application designed to provide users with 
 
 ## Demo
 
-[[Website](https://winnyineza.github.io/Fetcher-app/)](#) 
+[[Website Link](https://winnyineza.github.io/Fetcher-app/)]
+
 You can watch a short demo of how the GitHub Repositories Fetcher app works [here](#) [Insert link to your demo video].
 
 ## Getting Started
