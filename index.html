@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Repositories Fetcher</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="overlay">
+    <div class="container">
+      <img src="github-mark-white.png" alt="GitHub Icon" class="github-icon">
+      <h1>GitHub Repositories</h1>
+      <input type="text" id="username" class="username-input" placeholder="Enter GitHub Username"/>
+      <div class="button-container">
+        <button id="fetchButton" class="button">Fetch Repositories</button>
+      </div>
+      <div id="repositoryList" class="repository-list"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
