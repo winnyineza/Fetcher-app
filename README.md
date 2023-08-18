@@ -6,7 +6,7 @@ A simple web app that allows users to enter a GitHub username and fetches a list
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Website Link](#Webstite-Link)
+- [Website Link](#webstite-link)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -25,7 +25,7 @@ GitHub Repositories Fetcher is a web application designed to provide users with 
 
 ## Website link
 
-You can see the live demo of GitHub Repositories Fetcher app [here](#) [Insert link to your demo video].
+You can see the live demo of GitHub Repositories Fetcher app [here](#) [https://winnyineza.github.io/Fetcher-app/].
 
 
 ## Demo
