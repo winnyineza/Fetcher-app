@@ -22,13 +22,9 @@ GitHub Repositories Fetcher is a web application designed to provide users with 
 - Fetch and display repositories based on a GitHub username.
 - Display each repository's name, description, and a link to the repository.
 
-## Website link
-
-You can see the live demo of GitHub Repositories Fetcher app [[here](https://winnyineza.github.io/Fetcher-app/)](#).
-
-
 ## Demo
 
+[[Website](https://winnyineza.github.io/Fetcher-app/)](#) 
 You can watch a short demo of how the GitHub Repositories Fetcher app works [here](#) [Insert link to your demo video].
 
 ## Getting Started
