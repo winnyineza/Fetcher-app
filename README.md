@@ -30,8 +30,8 @@ You can watch a short demo of how the GitHub Repositories Fetcher app works [her
 
 To run the app locally, follow these steps:
 
-1. Clone this repository: `git clone [repository URL]`
-2. Navigate to the project directory: `cd github-repositories-fetcher`
+1. Clone this repository: `git clone https://github.com/winnyineza/Fetcher-app.git`
+2. Navigate to the project directory: `cd Fetcher-app`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
 
